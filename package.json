@@ -1,7 +1,7 @@
 {
   "name": "alexaserver",
   "version": "1.0.0",
-  "description": "Sample Alexa Server Project",
+  "description": "Boring Alexa Server Project",
   "main": "index.js",
   "dependencies": {
     "alexa-app-server": "^2.2.4"
@@ -20,10 +20,6 @@
     "server",
     "echo"
   ],
-  "author": "Daniel Llewellyn",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Kenji776/AlexaServer1/issues"
-  },
-  "homepage": "https://github.com/Kenji776/AlexaServer1#readme"
+  "author": "Roni Vegh",
+  "license": "MIT"
 }
