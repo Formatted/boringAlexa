@@ -1,3 +1,6 @@
 [submodule "apps/test-skill"]
 	path = apps/test-skill
 	url = https://github.com/Kenji776/AlexaTestSkill.git
+[submodule "apps/boringSkill"]
+	path = apps/boringSkill
+	url = git@github.com:Formatted/boringSkill.git

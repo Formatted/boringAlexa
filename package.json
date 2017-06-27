@@ -4,15 +4,14 @@
   "description": "Boring Alexa Server Project",
   "main": "index.js",
   "dependencies": {
-    "alexa-app-server": "^2.2.4"
+    "alexa-app-server": "^2.3.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kenji776/AlexaServer1.git"
+    "type": "git"
   },
   "keywords": [
     "alexa",
